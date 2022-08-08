@@ -1,0 +1,60 @@
+
+.container{
+  clear:both;
+  overflow:auto;
+  background-color: #FFE2E2 ;
+}
+
+nav{float:right;
+font: roboto;
+background-color: #FFE2E2}
+
+.index.png{float:left;}
+
+ul li{
+  display: inline-block; padding:10px;
+  font-size:20px; font-family:raleway;
+}
+
+ul li:hover{
+  color:orange;
+
+}
+.meee{
+  margin: 0 auto ;
+  width: 50%;
+  padding: 0px;
+  padding-bottom: 20px;
+
+}
+.me{
+  float: left;
+  width: 200px;
+  height: 200px;
+  padding: 0 10px 0 0;
+}
+.text{
+  text-align: justify;
+  font-family: verdana;
+}
+body{
+    background-color: #E3FDFD ;
+    margin: 0;
+      font-family: 'Roboto';font-size: 22px;
+}
+
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+body {
+  background-image: url(888.jpg) ;
+  background-size: contain;
+  margin: 0%;
+  background-repeat: repeat;
+}
